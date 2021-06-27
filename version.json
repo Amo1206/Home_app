@@ -1,4 +1,4 @@
 {
-   "update": false,
+   "update": true,
    "apk_file_url": "https://raw.githubusercontent.com/WVector/AppUpdateDemo/master/apk/sample-debug.apk"
 }
